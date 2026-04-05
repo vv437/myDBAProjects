@@ -1,0 +1,1 @@
+https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=samples&t=wikipedia&page=table&project=datawarehouseproject-492300&ws=!1m15!1m4!4m3!1sbigquery-public-data!2ssamples!3swikipedia!1m4!1m3!1sdatawarehouseproject-492300!2sbquxjob_5f8d727a_19d583c846b!3sUS!1m4!1m3!1sdatawarehouseproject-492300!2sbquxjob_62068f1c_19d5bd7ea7c!3sUS
